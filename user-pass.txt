@@ -1,0 +1,4 @@
+user: adm@email.com
+pass: asdfasdf
+
+database: db_sipakcamar
